@@ -1,0 +1,16 @@
+{
+  "name": "exceljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "pkg main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "ifsc": "^2.0.11",
+    "pkg": "^5.8.0"
+  }
+}
