@@ -1,4 +1,4 @@
-# ifsc_verify
+# ifsc-verifier
 Verify whether the list of IFSC codes in the EXCEL file is valid or not.
 
 # How-to-use
